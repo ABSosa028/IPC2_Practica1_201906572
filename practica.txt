@@ -1,0 +1,15 @@
+datos order (nodo order)
+	id order
+	hora 
+	datos cliente (ob cliente)
+		nombre, telefono, direccion
+	pizzas (nodo pizza)
+		datoPizza1 --> morePizza? 
+	tiempoesti
+	-->moreOrder??? 
+
+
+
+	
+		
+		añadir la hoja de trabajo 2 a los anexos
